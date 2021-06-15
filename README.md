@@ -1,16 +1,19 @@
-### Hi there 👋
+## Caique Sallas, 19y - Backend Developer 💻
 
-<!--
-**CaiqueSallas/CaiqueSallas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
+- 🔭 Currently I work as Backend Developer at <a target="_blank" href="http://burh.com.br">Burh</a>
+- 🏠 Living in Sorocaba, SP - Brazil 🇧🇷
+- 🖥 Passionate about technology, I've been working in the area about three years
 
-Here are some ideas to get you started:
+### Stack
+- 🔌 <b>Backend:</b> PHP (Laravel), NodeJS
+- 🖥️ <b>Server:</b> Linux, Docker
+- 💾 <b>Database:</b> MySQL, PostgreSQL, MongoDB, Redis
+- 🎯 <b>Frontend:</b> HTML, CSS, VueJS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+- 📞 +55 (15) 991231016
+
+### Find Me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/caique-sallas/)](https://www.linkedin.com/in/caique-sallas/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:caique.sallas@gmail.com)](mailto:caique.sallas@gmail.com)
