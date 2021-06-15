@@ -3,7 +3,6 @@
 ### About
 - 🔭 Currently I work as Backend Developer at <a target="_blank" href="http://burh.com.br">Burh</a>
 - 🏠 Living in Sorocaba, SP - Brazil 🇧🇷
-- 
 
 ### Stack
 - 🔌 <b>Backend:</b> PHP (Laravel), NodeJS
@@ -12,8 +11,8 @@
 - 🎯 <b>Frontend:</b> HTML, CSS, VueJS, JavaScript
 
 ### Languages
-- 🇧🇷 native
-- 🇺🇸 intermediary
+- portuguese: native
+- english: intermediate
 
 ### Contact
 - 📞 +55 (15) 991231016
