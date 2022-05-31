@@ -11,8 +11,8 @@
 - 🎯 <b>Frontend:</b> HTML, CSS, VueJS, JavaScript
 
 ### Languages
-- portuguese: native
-- english: intermediate
+- 🇧🇷 native
+- 🇺🇸 intermediate
 
 ### Contact
 - 📞 +55 (15) 991231016
